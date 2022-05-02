@@ -39,3 +39,7 @@ main, aside {
 h3 {
     margin: 0px 0px 10px 0px;
 }
+
+ul, ol {
+    padding-left: 2px;
+}
